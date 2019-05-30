@@ -1,0 +1,41 @@
+body {
+  background-color: lightgrey;
+}
+.jumbotron h1{
+    color: black;
+}
+
+.row p {
+  font-size: 18px;
+}
+
+.attractions {
+  text-align: center;
+  margin: 30px;
+  font-size: 50px;
+  margin-top: 100px;
+  text-decoration: underline;
+}
+
+.sidebar {
+  float: left;
+  width: 300px;
+}
+
+.row img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.contact p {
+  font-size: 20px;
+}
+
+.contact {
+  text-align: center;
+}
+
+.list-inline {
+  font-size: 45px;
+  text-align: center;
+}
